@@ -1,4 +1,4 @@
-#Resume
-**Name** : Dhruv Pande
-**Oganization**/h5> : QA Infotech
+<h1>Resume</h1>
+**Name** : Dhruv Pande <br>
+**Oganization** : QA Infotech
 
